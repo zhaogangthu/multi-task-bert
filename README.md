@@ -1,3 +1,6 @@
+easytransfer参考下面
+https://github.com/wellinxu/EasyTransfer/tree/master/scripts/%E5%A4%A9%E6%B1%A0%E5%A4%A7%E8%B5%9B%E4%B8%93%E5%8C%BA?spm=5176.12282029.0.0.3be57d025WOYrN
+
 # multi-task-bert
 NLP中文预训练模型泛化能力挑战赛
 
